@@ -40,8 +40,7 @@ Software Engineer with 6+ years building scalable, backend-driven systems in Pyt
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaheerijaz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheerijaz&layout=compact&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shaheerijaz&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 ---
