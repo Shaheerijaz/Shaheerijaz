@@ -47,4 +47,4 @@ Software Engineer with 6+ years building scalable, backend-driven systems in Pyt
 
 ## Let's Connect
 
-I'm always up for talking through interesting backend architecture, ETL design, or where AI actually earns its place in a product. Reach out if you're building something ambitious — [shaheer.ijaz6@gmail.com](mailto:shaheer.ijaz6@gmail.com).
+I'm always up for talking through interesting backend architecture, ETL design, or where AI actually earns its place in a product. Reach out if you're building something ambitious [shaheer.ijaz6@gmail.com](mailto:shaheer.ijaz6@gmail.com).
