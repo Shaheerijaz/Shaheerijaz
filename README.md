@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shaheer bin Ijaz
+# Shaheer Bin Ijaz
 ### Solution Architect & Software Engineer
 
 Python · Django · FastAPI · ETL Pipelines · Distributed Systems · AI-Powered Applications · Cloud Architecture
@@ -8,6 +8,7 @@ Python · Django · FastAPI · ETL Pipelines · Distributed Systems · AI-Powere
 [![Email](https://img.shields.io/badge/Email-shaheer.ijaz6%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaheer.ijaz6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shaheerijaz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaheerijaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer-bin-ijaz)
+[![Portfoloio](https://img.shields.io/badge/Portfolio-Visit-0B1220?style=flat-square&logo=vercel&logoColor=white)](https://shaheer-bin-ijaz.com)
 
 </div>
 
