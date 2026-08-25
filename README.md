@@ -15,7 +15,7 @@ Python · Django · FastAPI · ETL Pipelines · Distributed Systems · AI-Powere
 
 ## About
 
-Software Engineer with 6+ years building scalable, backend-driven systems in Python. My work spans production ETL pipelines, API design with Django REST Framework and FastAPI, and shipping AI-powered features end to end — I care most about solving hard problems with code that's clean enough for someone else to own.
+Software Engineer with 6+ years building scalable, backend-driven systems in Python. My work spans production ETL pipelines, API design with Django REST Framework and FastAPI, and shipping AI-powered features end to end I care most about solving hard problems with code that's clean enough for someone else to own.
 
 **Currently focused on:**
 - Designing distributed, event-driven backend systems for high-volume environments
