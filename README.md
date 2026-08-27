@@ -20,7 +20,7 @@ Software Engineer with 6+ years building scalable, backend-driven systems in Pyt
 
 **Currently focused on:**
 - Designing distributed, event-driven backend systems for high-volume environments
-- Building and hardening APIs for production — auth, multi-tenancy, observability
+- Building and hardening APIs for production - auth, multi-tenancy, observability
 - Applying ML/CV (CNNs) to real product problems, not just notebooks
 
 ---
